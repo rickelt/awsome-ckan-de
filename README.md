@@ -11,6 +11,8 @@ A curated list of all awesome things related to CKAN in deutsch
 
 * **Offene Daten portal Stadt Frankfurt am Main** Leichte, schriftbetonte Oberfläche, integriert in städtische Corporate Design https://offenedaten.frankfurt.de
 * **Open Data Portal Metropole Ruhr** Aufgeräumtes, übersichtliches Template https://opendata.ruhr
+* **Open Data Portal Aachen** modernes und helles Layout https://offenedaten.aachen.de
+* **Corona Open Data** übersichtliches Template mit hellen Farben https://corona-open-data.ckan.de
 
 Weitere Open Data Portale gibt es als Open Data [hier](https://www.govdata.de/web/guest/suchen/-/details/ubersicht-der-open-data-angebote-in-deutschlandc9132)
 
@@ -23,6 +25,9 @@ Weitere Open Data Portale gibt es als Open Data [hier](https://www.govdata.de/we
 * **recline_map_view / DataStore Map** (en.) Anzeige von Daten aus dem DataStore mit GeoJson (Lat/Lon) Feldern https://docs.ckan.org/en/2.9/maintaining/data-viewer.html#datastore-map
 * **ckanext-dcat** (en.) Fügt RDF-Informationenzu den Datensätzen hinzu, die beim Harvesten Metadaten zur Verfügung gestellt und konsumiert werden können. DCAT = Data Catalog Vocabulary
 * **harvest ckan_harvester** Damit können CKAN-Portale komplette Datensätze von/zu anderern CKAN-Portalen übertragen https://github.com/ckan/ckanext-harvest
+* **ckanext-showcase** Anzeige und Link zu Anwendungen/Apps von anderen Webseiten. Jetzt auch mit deutscher Übersetzung: https://github.com/ondics/ckanext-showcase
+* **ckanext-similar-datasets** fügt eine Liste ähnlicher Datensätze in der Datensatz-Detailsicht hinzu https://github.com/ondics/ckanext-similar-datasets
+* **ckanext-solr-query-config** kann CKAN Parameter, die an Solr gesendet werden, überschreiben
 
 ## Nutzung von CKAN in eigenen Anwendungen / Apps / Applikationen
 
