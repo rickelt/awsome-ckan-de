@@ -27,7 +27,7 @@ Weitere Open Data Portale gibt es als Open Data [hier](https://www.govdata.de/we
 * **harvest ckan_harvester** Damit können CKAN-Portale komplette Datensätze von/zu anderern CKAN-Portalen übertragen https://github.com/ckan/ckanext-harvest
 * **ckanext-showcase** Anzeige und Link zu Anwendungen/Apps von anderen Webseiten. Jetzt auch mit deutscher Übersetzung: https://github.com/ondics/ckanext-showcase
 * **ckanext-similar-datasets** fügt eine Liste ähnlicher Datensätze in der Datensatz-Detailsicht hinzu https://github.com/ondics/ckanext-similar-datasets
-* **ckanext-solr-query-config** kann CKAN Parameter, die an Solr gesendet werden, überschreiben
+* **ckanext-solr-query-config** kann CKAN Parameter, die an Solr gesendet werden, überschreiben https://github.com/ondics/ckanext-solr-query-config
 
 ## Nutzung von CKAN in eigenen Anwendungen / Apps / Applikationen
 
